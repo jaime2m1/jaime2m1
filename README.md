@@ -13,3 +13,4 @@ I'm a professional software developer.
 </br>
 [![Angular](https://img.shields.io/badge/Angular-ff0037?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DD0031)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-9171c1?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=7952B3)]()
+[![Symfony](https://img.shields.io/badge/Symfony-595959?style=for-the-badge&logo=Symfony&logoColor=white&labelColor=404040)]()
