@@ -4,4 +4,4 @@
 
 I'm a professional software developer.
 ## Skills
-[![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java007396&logoColor=white&labelColor=101010)]()
