@@ -9,3 +9,4 @@ I'm a professional software developer.
 </br>
 [![HTML5](https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)]()
 [![CSS3](https://img.shields.io/badge/CSS3-00b0ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)]()
+[![PHP](https://img.shields.io/badge/PHP-8c8fc0?style=for-the-badge&logo=PHP&logoColor=white&labelColor=777BB4)]()
