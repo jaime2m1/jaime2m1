@@ -16,3 +16,4 @@ I'm a professional software developer.
 [![Symfony](https://img.shields.io/badge/Symfony-595959?style=for-the-badge&logo=Symfony&logoColor=white&labelColor=404040)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-5d93bb?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)]()
+[![SQLite](https://img.shields.io/badge/SQLite-005780?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
