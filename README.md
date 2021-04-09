@@ -5,7 +5,7 @@
 I'm a professional software developer.
 ## Skills
 [![Java](https://img.shields.io/badge/Java-009ccc?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
-[![Java](https://img.shields.io/badge/Android-93ebbb?style=for-the-badge&logo=Android&logoColor=white&labelColor=#3DDC84)]()
+[![Java](https://img.shields.io/badge/Android-93ebbb?style=for-the-badge&logo=Android&logoColor=white&labelColor=3DDC84)]()
 </br>
 [![HTML5](https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)]()
 [![CSS3](https://img.shields.io/badge/CSS3-00b0ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)]()
