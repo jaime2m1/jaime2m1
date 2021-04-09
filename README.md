@@ -2,7 +2,7 @@
 ### Full-Stack Software Developer
 ![https://github.com/jaime2m1](https://user-images.githubusercontent.com/31405248/114190552-b4368180-994b-11eb-99f2-561917e38b52.png)
 
-I'm a professional software developer.
+
 ## Skills
 [![Java](https://img.shields.io/badge/Java-009ccc?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
 [![Android](https://img.shields.io/badge/Android-7ee7ad?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
