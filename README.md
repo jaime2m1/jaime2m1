@@ -19,6 +19,6 @@ I'm a professional software developer.
 [![SQLite](https://img.shields.io/badge/SQLite-005780?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
 
 ## Editing Skills
-[![Lightroom](https://img.shields.io/badge/Lightroom-99d5ff?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white&labelColor=66bfff)]()
+[![Lightroom](https://img.shields.io/badge/Lightroom-66bfff?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white&labelColor=31A8FF)]()
 [![Photoshop](https://img.shields.io/badge/Photoshop-0086e6?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&labelColor=0068b3)]()
 [![Premiere](https://img.shields.io/badge/Premiere-ccccff?style=for-the-badge&logo=Adobe-Premiere&logoColor=white&labelColor=9999FF)]()
