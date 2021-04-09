@@ -18,7 +18,7 @@ I'm a professional software developer.
 [![MySQL](https://img.shields.io/badge/MySQL-5d93bb?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)]()
 [![SQLite](https://img.shields.io/badge/SQLite-005780?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
 
-##Editing Skills
+## Editing Skills
 [![Adobe_Lightroom](https://img.shields.io/badge/Adobe_Lightroom-66bfff?style=for-the-badge&logo=Adobe_Lightroom&logoColor=white&labelColor=31A8FF)]()
 [![Java](https://img.shields.io/badge/Java-009ccc?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
 [![Java](https://img.shields.io/badge/Java-009ccc?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
