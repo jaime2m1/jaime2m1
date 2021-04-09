@@ -10,3 +10,6 @@ I'm a professional software developer.
 [![HTML5](https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26)]()
 [![CSS3](https://img.shields.io/badge/CSS3-00b0ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6)]()
 [![PHP](https://img.shields.io/badge/PHP-8c8fc0?style=for-the-badge&logo=PHP&logoColor=white&labelColor=777BB4)]()
+</br>
+[![Angular](https://img.shields.io/badge/Angular-ff0037?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DD0031)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-9171c1?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=7952B3)]()
