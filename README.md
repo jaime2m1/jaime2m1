@@ -17,6 +17,7 @@
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-5d93bb?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)]()
 [![SQLite](https://img.shields.io/badge/SQLite-005780?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ## Editing Skills
 [![Lightroom](https://img.shields.io/badge/Lightroom-66bfff?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white&labelColor=31A8FF)]()
